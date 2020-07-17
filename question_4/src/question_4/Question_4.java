@@ -1,4 +1,4 @@
-public class Question_4 {
+public class question_4 {
 
    
     static final int intial = 0; 
